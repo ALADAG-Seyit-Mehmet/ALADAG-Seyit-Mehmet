@@ -67,8 +67,6 @@ Bağlantı kuralım! Aşağıdaki platformlardan bana ulaşabilirsiniz:
 ---
 
 ## 🇬🇧 English Version
-
-```markdown
 <div align="center">
   <img src="[https://avatars.githubusercontent.com/u/101348149?v=4](https://avatars.githubusercontent.com/u/101348149?v=4)" width="150px" alt="Profile Picture" style="border-radius: 50%;">
   <h1>Hello, I'm Seyit Mehmet Aladağ 👋</h1>
@@ -128,8 +126,9 @@ Activities that enrich my world outside of coding:
 
 Let's connect! You can reach me on the platforms below:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">]([Your LinkedIn Profile Link])
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:[Your Email Address])
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">]([Your Twitter Profile Link])
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/seyit-mehmet-alada%C4%9F-734b521a9/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHVCkfZjMpxVLPKrcjpLVtpRCDzqkQtjPkkpkBRjMdNfpHkbvHfFLqmSKxJhtMdnclqcL)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">](https://x.com/EONTV2)
+
 
 </div>
