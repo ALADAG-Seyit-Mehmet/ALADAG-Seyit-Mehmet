@@ -17,7 +17,7 @@ Dijital dünyayı şekillendirmek için kullandığım araçlar ve diller:
 
 | Kategori | Teknolojiler | Deneyim Seviyesi |
 | :--- | :--- | :--- |
-| **Diller** | **Python**, **JavaScript (Temel)**, **HTML/CSS (İleri Düzey)**, **C# (Temel)** | Otomasyon ve arka uç mantığı için Python'a, web tasarımı için HTML/CSS'e hakimim. Diğer dillerde yetkinliğimi artırma aşamasındayım. |
+| **Diller** | **Python**, **JavaScript (Temel)**, **HTML/CSS (Temel)**, **C# (Temel)** | Otomasyon ve arka uç mantığı için Python'a, web tasarımı için HTML/CSS'e hakimim. Diğer dillerde yetkinliğimi artırma aşamasındayım. |
 | **Frameworkler & Kütüphaneler** | **Django (Temel)**, **React (Öğrenme Aşamasında)**, **Discord.js**, **Selenium** | Temel web geliştirme ve bot yazılımı alanında deneyime sahibim. Odak noktam, modern, ölçeklenebilir uygulamalar geliştirmektir. |
 | **Veritabanları & Araçlar** | **MySQL (Temel)**, **Git/GitHub**, **VS Code**, **Adobe Photoshop/Illustrator**, **Blender** | Proje sürüm kontrolü ve işbirliği için Git/GitHub'ı aktif olarak kullanıyorum. Ayrıca görsel tasarım ve 3D modelleme becerilerim de mevcuttur. |
 
@@ -36,7 +36,7 @@ Dijital dünyayı şekillendirmek için kullandığım araçlar ve diller:
 | Proje Adı | Açıklama | Teknoloji | Durum |
 | :--- | :--- | :--- | :--- |
 | **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"> Discord Moderasyon Botu** | Discord sunucuları için otomatik kural uygulaması, spam/küfür filtreleme ve kullanıcı yönetimi sağlayan bir bot. Topluluk yönetimini kolaylaştırmayı amaçlar. | Python, Discord.py | Tamamlandı / Geliştiriliyor |
-| **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="20px"> WordPress Moderasyon Botu (Taslak)** | Belirlenen kriterlere uymayan yorumları veya içerikleri otomatik olarak tarayan ve raporlayan bir WordPress eklentisi/betiği konsepti. Büyük sitelerde içerik denetim yükünü hafifletmek hedeflenmiştir. | Python (Selenium/API), PHP (Konsept) | Fikir Aşamasında |
+| **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="20px"> WhatsApp Moderasyon Botu (Taslak)** | Belirlenen kriterlere uymayan yorumları veya içerikleri otomatik olarak tarayan ve raporlayan bir WordPress eklentisi/betiği konsepti. Büyük sitelerde içerik denetim yükünü hafifletmek hedeflenmiştir. | Python (Selenium/API), PHP (Konsept) | Fikir Aşamasında |
 | **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"> Hobi Test Web Sitesi Tasarımları** | Çeşitli görsel düzenler, modern UI/UX prensipleri ve duyarlı tasarım uygulamalarını denediğim minimalist web site şablonları koleksiyonu. Kodlama becerilerimi sergilemek için kullanılmıştır. | HTML5, CSS3, JavaScript (Temel) | Çeşitli |
 
 ## 📚 Hobiler ve İlgi Alanları
@@ -86,7 +86,7 @@ The tools and languages I use to shape the digital world:
 
 | Category | Technologies | Proficiency/Experience |
 | :--- | :--- | :--- |
-| **Languages** | **Python**, **JavaScript (Basic)**, **HTML/CSS (Advanced)**, **C# (Basic)** | Proficient in Python for automation and backend logic, and HTML/CSS for web design. Actively increasing my competency in other languages. |
+| **Languages** | **Python**, **JavaScript (Basic)**, **HTML/CSS (Basic)**, **C# (Basic)** | Proficient in Python for automation and backend logic, and HTML/CSS for web design. Actively increasing my competency in other languages. |
 | **Frameworks & Libraries** | **Django (Basic)**, **React (Learning)**, **Discord.js**, **Selenium** | Experienced in basic web development and bot scripting. My focus is on developing modern, scalable applications. |
 | **Databases & Tools** | **MySQL (Basic)**, **Git/GitHub**, **VS Code**, **Adobe Photoshop/Illustrator**, **Blender** | I actively use Git/GitHub for project version control and collaboration. I also possess skills in visual design and 3D modeling. |
 
@@ -105,7 +105,7 @@ Some significant projects I have worked on and am currently developing:
 | Project Name | Description | Technology | Status |
 | :--- | :--- | :--- | :--- |
 | **<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="20px"> Discord Moderation Bot** | A bot for Discord servers providing automated rule enforcement, spam/profanity filtering, and user management. Aims to simplify community administration. | Python, Discord.py | Completed / Under Development |
-| **<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg)" width="20px"> WordPress Moderation Bot (Concept)** | A concept for a WordPress plugin/script that automatically scans and reports comments or content that do not meet specified criteria. Intended to reduce the content moderation load on large sites. | Python (Selenium/API), PHP (Concept) | Ideation Phase |
+| **<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg)" width="20px"> WhatsApp Moderation Bot (Concept)** | A concept for a WordPress plugin/script that automatically scans and reports comments or content that do not meet specified criteria. Intended to reduce the content moderation load on large sites. | Python (Selenium/API), PHP (Concept) | Ideation Phase |
 | **<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="20px"> Hobby Test Website Designs** | A collection of minimalist website templates where I experiment with various visual layouts, modern UI/UX principles, and responsive design implementations. Used to showcase my front-end coding skills. | HTML5, CSS3, JavaScript (Basic) | Various |
 
 ## 📚 Hobbies & Interests
