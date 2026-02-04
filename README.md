@@ -49,7 +49,7 @@ I am a Full Stack Developer specializing in **Node.js**, **Python**, and **AI In
 #### 🤖 [Personal AI Assistant with Gemini API]
 *A sophisticated personal assistant leveraging the power of Google's Gemini API to handle tasks, maintain context, and automate workflows.*
 
-*(Not: Eğer projenin linki varsa yukarıdaki parantez içine ekle, yoksa köşeli parantezleri kaldırabilirsin)*
+
 
 ---
 
